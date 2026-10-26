@@ -59,6 +59,12 @@ Je cherche actuellement un premier stage en développement Web pour mettre en pr
 
 Application permettant de gérer des comptes bancaires et d'effectuer des opérations comme les dépôts et les retraits.
 
+### BankSystem — Gestion bancaire (code disponible)
+**Java · Swing · Oracle SQL**
+
+Application de gestion bancaire avec une interface graphique permettant de gérer les comptes, les clients et les transactions.
+
+[Voir le code sur GitHub](https://github.com/mohamedamineakdim/BankSystem)
 ### 02 — Gestion hospitalière
 **C# · ASP.NET Core**
 
