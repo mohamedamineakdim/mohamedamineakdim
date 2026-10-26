@@ -54,10 +54,17 @@ Je cherche actuellement un premier stage en développement Web pour mettre en pr
 
 ## Mes projets scolaires
 
-### 01 — Système de gestion bancaire
+### Système de gestion bancaire
 **C# · Programmation orientée objet**
 
 Application permettant de gérer des comptes bancaires et d'effectuer des opérations comme les dépôts et les retraits.
+
+### GestionEtudiantsApp — Gestion des étudiants
+**C# · Windows Forms · SQL Server**
+
+Application scolaire permettant de gérer les étudiants, les matières et les notes, avec une interface Windows Forms et une base de données SQL Server.
+
+[Voir le projet sur GitHub](https://github.com/mohamedamineakdim/GestionEtudiantsApp)
 
 ### BankSystem — Gestion bancaire (code disponible)
 **Java · Swing · Oracle SQL**
@@ -65,17 +72,17 @@ Application permettant de gérer des comptes bancaires et d'effectuer des opéra
 Application de gestion bancaire avec une interface graphique permettant de gérer les comptes, les clients et les transactions.
 
 [Voir le code sur GitHub](https://github.com/mohamedamineakdim/BankSystem)
-### 02 — Gestion hospitalière
+### Gestion hospitalière
 **C# · ASP.NET Core**
 
 Application de gestion des patients et des visites, avec des fonctionnalités pour consulter et modifier les informations.
 
-### 03 — SkyReserve
+### SkyReserve
 **Java · Spring Boot · MySQL**
 
 Projet de réservation de vols avec gestion des utilisateurs, des vols et des réservations.
 
-### 04 — Développement Web
+### Développement Web
 **HTML · CSS · JavaScript**
 
 Différents travaux réalisés pendant ma formation pour pratiquer la création de pages Web et les fonctionnalités interactives.
